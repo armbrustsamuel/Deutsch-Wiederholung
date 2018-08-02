@@ -1,6 +1,6 @@
 # Angela Merkel
 
-Angela Merkel ist eine deutsche `Politikerin` und seit dem 22. November 2005
+Angela Merkel ist eine deutsche `Politikerin` und seit dem 22. November 2005 amtierende der `Bundesrepublik` Deutschland.
 
 Am 14. März wurde Angela vom `Bundestag` zum vierten Mal zur `Bundeskanzlerin` gewählt. Merkel war Bundesministerin von 1991 bis 1994.
 
