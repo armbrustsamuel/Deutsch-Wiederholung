@@ -2,20 +2,20 @@
 
 ## Text und Gespräch
 
-- Beschleunigt -
-- Erfindung -
-- Tierkraft -
-- Beförderung -
-- schweren -
-- Lasten -
-- benutzen -
-- Kutschen -
-- Strecken -
-- laufen -
-- Gütern -
-- planen -
-- selbstbewegender Wagen -
-- nennen - 
+- Beschleunigt - `acelerado`
+- Erfindung - `invençnao`
+- Tierkraft - `força animal`
+- Beförderung - `transporte`
+- schweren - `suecos`
+- Lasten - `cargas`
+- benutzen - `usar`
+- Kutschen - `carruagens`
+- Strecken - `esticar`
+- laufen - `funcionar`
+- Gütern - `bens`
+- planen - `planejar`
+- selbstbewegender Wagen - `carro mesmo emocionante` ????
+- nennen - `chamar`
 
 ## Fragen
 1. Wann war die Erfindung von dem Auto?

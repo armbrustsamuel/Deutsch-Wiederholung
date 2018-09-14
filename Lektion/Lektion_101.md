@@ -1,38 +1,38 @@
 # Lektion 101
 
 ## Verben
-- mitteilen - hat mitgeteilt
-- verbreiten - hat verbreitet
-- beschleunigen - hat beschleunigt
-- transportieren - hat transportiert
+- mitteilen - hat mitgeteilt - `comunicar (algo)`
+- verbreiten - hat verbreitet - `divulgar`
+- beschleunigen - hat beschleunigt - `acelerar` `agilizar`
+- transportieren - hat transportiert - `transportar`
 
 ## Wortschatz
-- die Autobahn - die Autobahne
-- das Automobil - die Automobile
-- der Motor - die Motoren
-- die Erfindung - die Erfindungen
-- die Entdeckung - die Entdeckungen
-- der Führerschein - die Führerscheine
-- die Distanz - die Distanzen
-- die Geschwindigkeit - die Geschwindigkeiten
-- der Augenblick - die Augenblicke
-- der Personenkraftwagen
-- die Last - die Lasten
-- die Fortbewegung - die Fortbewegungen
-- die Beförderung - die Beförderungen
-- die Kutsche - die Kutschen
-- das Gut - die Güter
-- die Kraft - die Kräfte
-- rasant
-- eilig
-- individuell
-- radikal
+- die Autobahn - die Autobahne - `estrada`
+- das Automobil - die Automobile - `automóvel`
+- der Motor - die Motoren - `motor`
+- die Erfindung - die Erfindungen - `invenção`
+- die Entdeckung - die Entdeckungen - `descoberta`
+- der Führerschein - die Führerscheine - `carta de condução`
+- die Distanz - die Distanzen - `distância`
+- die Geschwindigkeit - die Geschwindigkeiten - `velocidade`
+- der Augenblick - die Augenblicke - `momento` `instante`
+- der Personenkraftwagen - `automóveis`
+- die Last - die Lasten - `cargas`
+- die Fortbewegung - die Fortbewegungen - `locomoção`
+- die Beförderung - die Beförderungen - `transporte`
+- die Kutsche - die Kutschen - `carruagem`
+- das Gut - die Güter - `bens`
+- die Kraft - die Kräfte - `força`
+- rasant - `acelerado`
+- eilig - `apressado`
+- individuell - `individual`
+- radikal - `radical`
 
 ## Ausdrücke
 - mit 11 Jahren
-- als Kind
-- nach der Erfindung
-- vor der Entdeckung
+- als Kind - `quando criança`
+- nach der Erfindung - `após a invenção`
+- vor der Entdeckung - `antes da invenção`
 
 
 ## Grammatik
